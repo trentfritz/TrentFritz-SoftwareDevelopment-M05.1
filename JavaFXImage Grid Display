@@ -18,7 +18,7 @@ public class ImageGridPane extends Application {
         gridPane.setVgap(10);
 
         // Directory path for images
-        String directoryPath = "C:\\Users\\tfrit\\Downloads\\Images";
+        String directoryPath = "Asset Directory/images/";
 
         // Load images from the directory
         File directory = new File(directoryPath);

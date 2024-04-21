@@ -1,0 +1,8 @@
+@startuml
+class ImageGridPane {
+    - primaryStage: Stage
+    - directoryPath: String
+    - start(Stage): void
+    - main(String[]): void
+}
+@enduml
